@@ -1,0 +1,17 @@
+{
+  "name": "schmervice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "@hapipal/schmervice": "^2.0.0",
+    "schmervice": "^1.6.0"
+  }
+}
